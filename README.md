@@ -11,8 +11,6 @@
 [![Stripe](https://img.shields.io/badge/Stripe-Integrated-5469d4?style=flat-square&logo=stripe)](https://stripe.com/)
 [![AWS S3](https://img.shields.io/badge/AWS%20S3-Storage-FF9900?style=flat-square&logo=amazonaws)](https://aws.amazon.com/s3/)
 
-[Live Demo](#) • [Documentation](#tech-stack) • [Setup Guide](#setup-instructions) • [Features](#-features)
-
 </div>
 
 ---
