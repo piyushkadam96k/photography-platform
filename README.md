@@ -468,9 +468,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Kadam** - Photography Platform Creator
 
-- 📧 Email: kadam@example.com
-- 🐙 GitHub: [@kadam](https://github.com/kadam)
-- 💼 Location: Based on client work portfolio
+- 📧 Email: kadamamit462@gmail.com
 - 🎯 Focus: AI-powered photography platform with face recognition and e-commerce integration
 
 ---
@@ -482,12 +480,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Stripe](https://stripe.com/) for payment processing
 - [Vercel](https://vercel.com/) for hosting
 - [Prisma](https://prisma.io/) for ORM
-
----
-
-## 📞 Support
-
-For support, open an issue on [GitHub Issues](https://github.com/yourusername/photography-platform/issues) or contact the maintainer.
 
 ---
 
