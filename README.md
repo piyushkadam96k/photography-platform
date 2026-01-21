@@ -92,13 +92,6 @@
 - Stripe API keys
 - Pinecone API key
 
-### 1️⃣ Clone & Install Dependencies
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/photography-platform.git
-cd photography-platform
-
 # Install Node dependencies
 npm install
 
